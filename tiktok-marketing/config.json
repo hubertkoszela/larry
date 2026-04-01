@@ -1,0 +1,40 @@
+{
+  "app": {
+    "name": "",
+    "description": "",
+    "audience": "",
+    "problem": "",
+    "differentiator": "",
+    "appStoreUrl": "",
+    "category": "",
+    "isMobileApp": false
+  },
+  "imageGen": {
+    "provider": "",
+    "apiKey": "",
+    "model": ""
+  },
+  "uploadPost": {
+    "apiKey": "",
+    "profile": "upload_post",
+    "platforms": [
+      "tiktok",
+      "instagram"
+    ]
+  },
+  "revenuecat": {
+    "enabled": false,
+    "v2SecretKey": "",
+    "projectId": ""
+  },
+  "posting": {
+    "schedule": [
+      "07:30",
+      "16:30",
+      "21:00"
+    ],
+    "crossPost": []
+  },
+  "competitors": "tiktok-marketing//competitor-research.json",
+  "strategy": "tiktok-marketing//strategy.json"
+}
